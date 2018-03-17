@@ -26,3 +26,32 @@ optional arguments:
   -t T        file with targets list*
   
   -au AU      file with admin url list
+  
+  
+  # example
+  
+  
+  C:\>lula.py -au link.txt -u google.com
+                     __            __                                      __                __
+                    /  |          /  |                                    /  |              /  |
+                    $$ | __    __ $$ |                      ______    ____$$ | _____  ____  $$/  _______
+                    $$ |/  |  /  |$$ |       ______        /      \  /    $$ |/     \/    \ /  |/       \
+                    $$ |$$ |  $$ |$$ |      /      |       $$$$$$  |/$$$$$$$ |$$$$$$ $$$$  |$$ |$$$$$$$  |
+                    $$ |$$ |  $$ |$$ |      $$$$$$/        /    $$ |$$ |  $$ |$$ | $$ | $$ |$$ |$$ |  $$ |
+                    $$ |$$ \__$$ |$$ |                    /$$$$$$$ |$$ \__$$ |$$ | $$ | $$ |$$ |$$ |  $$ |
+                    $$ |$$    $$/ $$ |                    $$    $$ |$$    $$ |$$ | $$ | $$ |$$ |$$ |  $$ |
+                    $$/  $$$$$$/  $$/                      $$$$$$$/  $$$$$$$/ $$/  $$/  $$/ $$/ $$/   $$/
+                                                                               --------------
+                                                                               (V-1.0) by dedman
+    =======================================================================================================
+
+
+Possible Targets :
+
+try this >  http://google.com/accounts/
+
+try this >  http://google.com/moderator/
+
+try this >  http://google.com/webmaster/
+
+try this >  http://google.com/security/
