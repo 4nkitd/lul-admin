@@ -1,7 +1,7 @@
 # lul-admin
 a python based tool to find admin panels of websites 
 
-C:\hack\admin-p\afin>arg.py -h
+C:\>lula.py -h
 
                      __            __                                      __                __
                     /  |          /  |                                    /  |              /  |
