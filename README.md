@@ -18,7 +18,11 @@ C:\>lula.py -h
 usage: arg.py [-h] [-u U] [-t T] [-au AU]
 
 optional arguments:
+
   -h, --help  show this help message and exit
+  
   -u U        url of target site*
+  
   -t T        file with targets list*
+  
   -au AU      file with admin url list
