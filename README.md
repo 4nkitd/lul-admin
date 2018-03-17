@@ -31,7 +31,8 @@ optional arguments:
   # example
   
   
-  C:\>lula.py -au link.txt -u google.com
+  C:\>lula.py -au link.txt -u example.com
+
                      __            __                                      __                __
                     /  |          /  |                                    /  |              /  |
                     $$ | __    __ $$ |                      ______    ____$$ | _____  ____  $$/  _______
@@ -42,16 +43,11 @@ optional arguments:
                     $$ |$$    $$/ $$ |                    $$    $$ |$$    $$ |$$ | $$ | $$ |$$ |$$ |  $$ |
                     $$/  $$$$$$/  $$/                      $$$$$$$/  $$$$$$$/ $$/  $$/  $$/ $$/ $$/   $$/
                                                                                --------------
-                                                                               (V-1.0) by dedman
+                                                                               (V-1.0) by aerro
     =======================================================================================================
 
 
 Possible Targets :
 
-try this >  http://google.com/accounts/
+try this >  http://example.com/admin/
 
-try this >  http://google.com/moderator/
-
-try this >  http://google.com/webmaster/
-
-try this >  http://google.com/security/
